@@ -1,0 +1,15 @@
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\bin\Debug\netcoreapp3.1\Transport.ly.exe
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\bin\Debug\netcoreapp3.1\Transport.ly.deps.json
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\bin\Debug\netcoreapp3.1\Transport.ly.runtimeconfig.json
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\bin\Debug\netcoreapp3.1\Transport.ly.runtimeconfig.dev.json
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\bin\Debug\netcoreapp3.1\Transport.ly.dll
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\bin\Debug\netcoreapp3.1\Transport.ly.pdb
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\obj\Debug\netcoreapp3.1\Transport.ly.csprojAssemblyReference.cache
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\obj\Debug\netcoreapp3.1\Transport.ly.AssemblyInfoInputs.cache
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\obj\Debug\netcoreapp3.1\Transport.ly.AssemblyInfo.cs
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\obj\Debug\netcoreapp3.1\Transport.ly.dll
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\obj\Debug\netcoreapp3.1\Transport.ly.pdb
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\obj\Debug\netcoreapp3.1\Transport.ly.genruntimeconfig.cache
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\obj\Debug\netcoreapp3.1\Transport.ly.csproj.CoreCompileInputs.cache
+C:\Users\sbqa9q10\source\repos\Transport.ly\Transport.ly\obj\Debug\netcoreapp3.1\Transport.ly.csproj.CopyComplete
