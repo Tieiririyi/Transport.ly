@@ -1,13 +1,11 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
-using System.Data;
+
 using System.IO;
 using System.Linq;
-using System.Reflection.Metadata;
-using System.Reflection.Metadata.Ecma335;
-using System.Runtime.InteropServices.ComTypes;
-using System.Text.Json.Serialization;
+
+
 using System.Text.RegularExpressions;
 
 namespace Transport.ly
@@ -99,20 +97,7 @@ namespace Transport.ly
                         while (exitLoop == false);
 
                         ScheduleOrders();
-
-                        _scheduledOrders.ForEach(order =>
-                        {
-                            if (order.LoadedFlightInfo == null)
-                            {
-                                Console.WriteLine("order: {0}, flighNumber: not scheduled", order.OrderNumber);
-                            }
-                            else
-                            {
-                                Console.WriteLine("order: {0}, flighNumber: {1}, departure: {2}, Arrival: {3},  day: {4}", order.OrderNumber, order.LoadedFlightInfo.FlightNumber,
-                                    order.TripLocations.DepartureCity, order.TripLocations.ArrivalCity, order.LoadedFlightInfo.DepartureDay);
-                            }
-
-                        });
+                 
                     }
                     else
                     {
@@ -201,7 +186,19 @@ namespace Transport.ly
 
                 _scheduledOrders.Add(currentOrder);
             }
+            _scheduledOrders.ForEach(order =>
+            {
+                if (order.LoadedFlightInfo == null)
+                {
+                    Console.WriteLine("order: {0}, flighNumber: not scheduled", order.OrderNumber);
+                }
+                else
+                {
+                    Console.WriteLine("order: {0}, flighNumber: {1}, departure: {2}, Arrival: {3},  day: {4}", order.OrderNumber, order.LoadedFlightInfo.FlightNumber,
+                        order.TripLocations.DepartureCity, order.TripLocations.ArrivalCity, order.LoadedFlightInfo.DepartureDay);
+                }
 
+            });
         }
 
         private static void LoadFlightSchedule()

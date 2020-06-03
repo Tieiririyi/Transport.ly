@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZvpEx6Xc5HJ8QA37clZL7YAH/5NHrA3gkcTo89udM6u5c+KyY41OCk+5uODcppaB611MsMEESd2y25yqSc6X5A==",
+  "dgSpecHash": "BJuT90twaehv1UHEnrDn4yE/QXpBYBFDLc4yHQV3IWwFmQx9nKYSXqxHSFfJ1/xStuRsBqBKSxz9VhIE0tCwzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sbqa9q10\\source\\repos\\Transport.ly\\Transport.ly\\Transport.ly.csproj",
+  "projectFilePath": "C:\\UserData\\sbqa9q10\\Documents\\GitHub\\Transport.ly\\Transport.ly\\Transport.ly.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sbqa9q10\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

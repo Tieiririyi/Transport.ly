@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sbqa9q10\\source\\repos\\Transport.ly\\Transport.ly\\Transport.ly.csproj",
+      "projectUniqueName": "C:\\UserData\\sbqa9q10\\Documents\\GitHub\\Transport.ly\\Transport.ly\\Transport.ly.csproj",
       "projectName": "Transport.ly",
-      "projectPath": "C:\\Users\\sbqa9q10\\source\\repos\\Transport.ly\\Transport.ly\\Transport.ly.csproj",
+      "projectPath": "C:\\UserData\\sbqa9q10\\Documents\\GitHub\\Transport.ly\\Transport.ly\\Transport.ly.csproj",
       "packagesPath": "C:\\Users\\sbqa9q10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sbqa9q10\\source\\repos\\Transport.ly\\Transport.ly\\obj\\",
+      "outputPath": "C:\\UserData\\sbqa9q10\\Documents\\GitHub\\Transport.ly\\Transport.ly\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
